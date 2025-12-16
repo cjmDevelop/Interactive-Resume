@@ -1,0 +1,26 @@
+{
+  "name": "interactive-resume",
+  "version": "1.0.0",
+  "description": "A modern, professional single-page portfolio website built with vanilla JavaScript, HTML5, and CSS3. Features smooth animations, responsive design, and a stunning Three.js particle background.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmDevelop/Interactive-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjmDevelop/Interactive-Resume/issues"
+  },
+  "homepage": "https://github.com/cjmDevelop/Interactive-Resume#readme",
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
